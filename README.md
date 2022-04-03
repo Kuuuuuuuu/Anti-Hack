@@ -1,2 +1,5 @@
 # Anti-Hack
-Just for fun!
+
+
+## Credit
+This repo fork from https://github.com/tinarskii/Anti-Chrome
