@@ -1,0 +1,3 @@
+C:/Users/KohakuChan/Desktop/Anti-Hack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KohakuChan/Desktop/Anti-Hack/cmake-build-debug/CMakeFiles/lol.dir
+C:/Users/KohakuChan/Desktop/Anti-Hack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
